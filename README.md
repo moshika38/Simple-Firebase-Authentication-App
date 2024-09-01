@@ -1,16 +1,19 @@
-# firebase_authentication_app
+# 🌟 Simple Firebase Authentication App 🌟
 
-A new Flutter project.
+Welcome to the **Simple Firebase Authentication App**! This app demonstrates a basic implementation of email and social sign-in methods using Firebase.
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 📧 **Email Sign-In and Sign-Up**
+- 🔒 **Password Reset**
+- 🌐 **Social Sign-In with Google, Facebook, etc.**
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter** SDK
+- **Firebase** Project and Configuration Files
+- **Dart** Language
+
+### preview
