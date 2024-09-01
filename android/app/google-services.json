@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "209621005982",
+    "project_id": "impressive-kite-412914",
+    "storage_bucket": "impressive-kite-412914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209621005982:android:e8719562c66e1590f5ad8f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_authentication_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209621005982-soa9k4p59qitk9486dksl7lq7vkcc4pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwKS0wvPX7_zez3XdkLHlGr_7QTfdxtiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209621005982-soa9k4p59qitk9486dksl7lq7vkcc4pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209621005982:android:7bce690e9924df6af5ad8f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209621005982-soa9k4p59qitk9486dksl7lq7vkcc4pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwKS0wvPX7_zez3XdkLHlGr_7QTfdxtiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209621005982-soa9k4p59qitk9486dksl7lq7vkcc4pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
